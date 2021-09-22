@@ -1,2 +1,2 @@
-# smarthome-fw-lib-esp8266-dddhtxx
-Library to interface DHTxx temp/humidity sensors for ESP8266 based projects
+# Smarthome firmware library for ESP8266 - DHTxx Temperature/Humidity sensor
+Library with functions for DHTxx temperature/humidity sensor based on ESP8266 board
